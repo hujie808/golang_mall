@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cttec.top" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="cttec.top">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/go.sum" />
+            <excludedPath path="/go.mod" />
+            <excludedPath local="true" path="$PROJECT_DIR$/go.mod" />
+            <excludedPath local="true" path="$PROJECT_DIR$/go.sum" />
+            <excludedPath local="true" path="$PROJECT_DIR$/go.mod114878831.tmp" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

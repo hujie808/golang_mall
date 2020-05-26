@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39a5cebb-448b-49c8-a82d-5bbffaed231a" name="cttec.top" url="http://39.96.160.74">
+        <fileTransfer host="39.96.160.74" port="22" rootFolder="/root/golang/src/web_iris/golang_mall" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+TEST LOG 2019/07/14 10:51:47 logger.go:23: Hello Golang
+TEST LOG 2019/07/14 10:51:47 logger.go:23: Hello Python
